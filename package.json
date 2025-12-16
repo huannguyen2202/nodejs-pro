@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/huannguyen2202/nodejs-pro/issues"
   },
-  "homepage": "https://github.com/huannguyen2202/nodejs-pro#readme"
+  "homepage": "https://github.com/huannguyen2202/nodejs-pro#readme",
+  "dependencies": {
+    "express": "5.0.1"
+  }
 }
